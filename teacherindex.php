@@ -19,7 +19,7 @@
   ?>
   
 
-  <!-- <button class="bi bi-list d-lg-none" type="button" data-bs-toggle="collapse" onclick="toggleSidebar()" ></button> -->
+  
 
   <div class="sidebar">
     <div class="teacher-info">
